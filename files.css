@@ -1,0 +1,12 @@
+.sec-1{
+    background-image:linear-gradient(rgba(173, 171, 177, 0.829), rgba(169, 167, 173, 0.84)), url(./images/portfolio-4.jpg);
+    min-height: 700px;
+    background-position: center;
+    background-size: cover;
+}
+
+.border{
+    background-image: url(./images/portfolio-4.jpg);
+    background-position: center;
+    background-size: cover;
+}
